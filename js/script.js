@@ -183,7 +183,7 @@ const categories = [
   {
     name: "Kids",
     page: "kids.html",
-    image: "https://www.chemicalsafetyfacts.org/wp-content/uploads/shutterstock_383521510-002-scaled.jpg",
+    image: "https://www.drewandjonathan.com/wp-content/uploads/2024/05/childrens-educational-toys-thumbnail.jpg",
   },
   {
     name: "Electronics",
