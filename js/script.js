@@ -148,77 +148,92 @@ const categories = [
   {
     name: "Quirky Home<br>Essentials",
     page: "quirky-home-essentials.html",
-    image: "https://thepurplepopshop.com/cdn/shop/files/Astronaut2_7fe352c1-ef29-439e-a756-60fb487b4390_533x.png?v=1718262077",
+    image:
+      "https://thepurplepopshop.com/cdn/shop/files/Astronaut2_7fe352c1-ef29-439e-a756-60fb487b4390_533x.png?v=1718262077",
   },
   {
     name: "Beauty &<br>Personal Care",
     page: "beauty-personal-care.html",
-    image: "https://images.verifiedmarketresearch.com/assets/Top-7-personal-care-product-companies-empowering-beauty-and-enhancing-well-being.jpg",
+    image:
+      "https://images.verifiedmarketresearch.com/assets/Top-7-personal-care-product-companies-empowering-beauty-and-enhancing-well-being.jpg",
   },
   {
     name: "Car & Bike<br>Accessories",
     page: "car-bike-accessories.html",
-    image: "https://tiimg.tistatic.com/fp/1/008/635/sports-bike-accessories-411.jpg",
+    image:
+      "https://tiimg.tistatic.com/fp/1/008/635/sports-bike-accessories-411.jpg",
   },
   {
     name: "Gym &<br>Wellness",
     page: "gym-wellness.html",
-    image: "https://stream-blog-v2.imgix.net/blog/wp-content/uploads/76c060e312ee1f442192e3816af906f1/Fitness-Wellness-Apps.png?auto=format&auto=compress",
+    image:
+      "https://stream-blog-v2.imgix.net/blog/wp-content/uploads/76c060e312ee1f442192e3816af906f1/Fitness-Wellness-Apps.png?auto=format&auto=compress",
   },
   {
     name: "Footwear",
     page: "footwear.html",
-    image: "https://img.businessoffashion.com/resizer/v2/KZBJEPYKPBGQ3PMG4AZQY3P6KM.png?auth=54fa5eb3c2a67e8dd43b7315162c3b88b6361a23e23eaa4acdb956607f2ecf4d&width=1440",
+    image:
+      "https://img.businessoffashion.com/resizer/v2/KZBJEPYKPBGQ3PMG4AZQY3P6KM.png?auth=54fa5eb3c2a67e8dd43b7315162c3b88b6361a23e23eaa4acdb956607f2ecf4d&width=1440",
   },
   {
     name: "Accessories",
     page: "accessories.html",
-    image: "https://i0.wp.com/fashion2apparel.com/wp-content/uploads/2023/10/Fashion-Accessories.jpg?fit=600%2C400&quality=100&ssl=1",
+    image:
+      "https://i0.wp.com/fashion2apparel.com/wp-content/uploads/2023/10/Fashion-Accessories.jpg?fit=600%2C400&quality=100&ssl=1",
   },
   {
     name: "Jewellery",
     page: "jewellery.html",
-    image: "https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/750x750/Shubh-Muhurat-Jewellery-Collection-01.jpg",
+    image:
+      "https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/750x750/Shubh-Muhurat-Jewellery-Collection-01.jpg",
   },
   {
     name: "Kids",
     page: "kids.html",
-    image: "https://www.drewandjonathan.com/wp-content/uploads/2024/05/childrens-educational-toys-thumbnail.jpg",
+    image:
+      "https://www.drewandjonathan.com/wp-content/uploads/2024/05/childrens-educational-toys-thumbnail.jpg",
   },
   {
     name: "Electronics",
     page: "electronics.html",
-    image: "https://img.freepik.com/premium-photo/gadgets-accessories-isolated-white-background_1272184-12.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/gadgets-accessories-isolated-white-background_1272184-12.jpg",
   },
   {
     name: "Men's Fashion",
     page: "mens-fashion.html",
-    image: "https://media.istockphoto.com/id/665032164/photo/flat-lay-of-modern-mens-clothing-on-a-wooden-background.jpg?s=612x612&w=0&k=20&c=CVqFStPc5EDNHIqnpYKPm-DaImQVf2VDjl54oPBavK4=",
+    image:
+      "https://media.istockphoto.com/id/665032164/photo/flat-lay-of-modern-mens-clothing-on-a-wooden-background.jpg?s=612x612&w=0&k=20&c=CVqFStPc5EDNHIqnpYKPm-DaImQVf2VDjl54oPBavK4=",
   },
   {
     name: "Women Ethnic",
     page: "women-ethnic.html",
-    image: "https://static.vecteezy.com/system/resources/thumbnails/036/223/591/small/set-of-drawn-women-from-different-ethnic-groups-in-white-dresses-hold-flowers-in-their-hands-modern-flat-illustration-isolated-in-layers-for-postcard-poster-banner-magazine-cover-vector.jpg",
+    image:
+      "https://static.vecteezy.com/system/resources/thumbnails/036/223/591/small/set-of-drawn-women-from-different-ethnic-groups-in-white-dresses-hold-flowers-in-their-hands-modern-flat-illustration-isolated-in-layers-for-postcard-poster-banner-magazine-cover-vector.jpg",
   },
   {
     name: "Women Western",
     page: "women-western.html",
-    image: "https://beta.imagesbof.in/wp-content/uploads/2022/05/Picture4-9.png",
+    image:
+      "https://beta.imagesbof.in/wp-content/uploads/2022/05/Picture4-9.png",
   },
   {
     name: "Newly Launcehed",
     page: "newly-launched.html",
-    image: "https://www.shutterstock.com/image-vector/new-arrival-banner-poster-sticker-260nw-2456537369.jpg",
+    image:
+      "https://www.shutterstock.com/image-vector/new-arrival-banner-poster-sticker-260nw-2456537369.jpg",
   },
   {
     name: "Tranding",
-    page: "tranding.html",
-    image: "https://cdn.prod.website-files.com/61fb37e7b711d5877396fabd/62290a066c9714837b2aff43_marketing-trends-2022-thumb.png",
+    page: "trending.html",
+    image:
+      "https://cdn.prod.website-files.com/61fb37e7b711d5877396fabd/62290a066c9714837b2aff43_marketing-trends-2022-thumb.png",
   },
   {
     name: "Testing",
     page: "testing.html",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIXlDqpG0FFLlwLnKyQtt7CeYSUc-9PCCRQ&s",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIXlDqpG0FFLlwLnKyQtt7CeYSUc-9PCCRQ&s",
   },
 ];
 

@@ -257,35 +257,20 @@ const carBikeAccessories = [
   
     return `
         <div class="col">
-                        <div class="product-item">
-                          <span class="badge bg-success position-absolute m-3">${discount}</span>
-                          <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlink:href="#heart"></use></svg></a>
-                          <figure>
-                            <a href="index.html" title="${name}">
-                              <img src="${image}" class="tab-image custom-tab-image">
-                            </a>
-                          </figure>
-                          <h3>${name}</h3>
-                          <span class="qty">${unit} Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlink:href="#star-solid"></use></svg>${rating}</span>
-                          <span class="price">$${price}</span>
-                          <div class="d-flex align-items-center justify-content-between">
-                            <div class="input-group product-qty">
-                                <span class="input-group-btn">
-                                    <button type="button" class="quantity-left-minus btn btn-danger btn-number" data-type="minus">
-                                      <svg width="16" height="16"><use xlink:href="#minus"></use></svg>
-                                    </button>
-                                </span>
-                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="${quantity}">
-                                <span class="input-group-btn">
-                                    <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus">
-                                        <svg width="16" height="16"><use xlink:href="#plus"></use></svg>
-                                    </button>
-                                </span>
+                          <div class=" product-item">
+                            <figure>
+                              <a href="index.html" title="${name}">
+                                <img src="${image}" class="tab-image custom-tab-image">
+                              </a>
+                            </figure>
+                            <h3>${name}</h3>
+                            <span class="qty text-wrap text-break ">${unit} Unit</span>
+                            <div class="mt-1 bg-dark text-center rounded d-flex justify-content-center gap-2">
+                            <img src="../images/icons8-whatsapp.svg" alt="" />
+                              <a href="#" class="nav-link text-white">Contact On Whatsapp</a>
                             </div>
-                            <a href="#" class="nav-link">Add to Cart <iconify-icon icon="uil:shopping-cart"></a>
                           </div>
                         </div>
-                      </div>
       `;
   }
   
